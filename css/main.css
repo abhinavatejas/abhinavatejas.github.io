@@ -1,7 +1,15 @@
 body {
-    background-color: lightcyan;
+    background-color: white;
     font-family: "Ubuntu Mono", "Anek Kannada", "Zen Kaku Gothic New", "Nanum Gothic Coding" ;
 }
+
+.mainbody {
+    background-image: url(/images/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
 /* Dropdown Button */
 .langbtn {
     background-color:#64d2a9;
